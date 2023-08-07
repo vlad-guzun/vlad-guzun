@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vlad-guzun
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything web related
-- 💞️ I’m looking to collaborate on anyone who shares my interests
+- 💞️ I’m looking to collaborate with anyone who shares my interests
 - 📫 How to reach me: vladguzun20022@gmail.com
 
 <!---
