@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vlad-guzun
-- 👀 I’m interested in web development and ai
+- 👀 I’m interested in web development and AI
 
 <!---
 vlad-guzun/vlad-guzun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
